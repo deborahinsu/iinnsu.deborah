@@ -1,0 +1,4 @@
+{
+  "latest": "V0.4.1", //最新版本的序號
+  "bin": "OTAWebUpdater.ino V0.4.1 .bin" //最新版本的bin名稱，要包含 .bin 的副檔名
+}
